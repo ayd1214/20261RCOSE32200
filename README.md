@@ -1,12 +1,7 @@
-# 20261RCOSE32200
+# COSE322: System Programming
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+This repository is created for the Optional Project in COSE322 (System Programming) at Korea University.
+
+## Project Details
+* **Course**: COSE322 (System Programming)
+* **Purpose**: Optional Project Submission
